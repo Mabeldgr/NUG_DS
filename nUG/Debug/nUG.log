@@ -1,0 +1,4 @@
+﻿  nUG.cpp
+nUG.cpp(100): warning C4101: 'cita_id': variable local sin referencia
+  nUG.vcxproj -> C:\Users\lolag\Documents\Visual Studio 2015\Projects\NUG\NUG\Debug\nUG.exe
+  nUG.vcxproj -> C:\Users\lolag\Documents\Visual Studio 2015\Projects\NUG\NUG\Debug\nUG.pdb (Full PDB)
